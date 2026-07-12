@@ -1,0 +1,22 @@
+Welcome to LangChain
+Large language models (LLMs) are emerging as a transformative technology, enabling developers to build applications that they previously could not. But using these LLMs in isolation is often not enough to create a truly powerful app - the real power comes when you are able to combine them with other sources of computation or knowledge.
+
+This library is aimed at assisting in the development of those types of applications. Common examples of these types of applications include:
+
+❓ Question Answering over specific documents
+
+Documentation
+
+End-to-end Example: Question Answering over Notion Database
+
+💬 Chatbots
+
+Documentation
+
+End-to-end Example: Chat-LangChain
+
+🤖 Agents
+
+Documentation
+
+End-to-end Example: GPT+WolframAlpha
